@@ -1,110 +1,129 @@
-# 👋 Merhaba, Ben WowSyler!
-
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=WowSyler&color=blueviolet&style=flat-square)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Ozan Küçük: Senior Software Developer, .NET / C#" src="assets/header-dark.svg" width="100%">
+</picture>
 
-</div>
+<a href="https://github.com/WowSyler">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=Backend+systems+that+survive+Black+Friday;Microservices+%E2%80%A2+DDD+%E2%80%A2+CQRS+%E2%80%A2+Event-driven;From+ASP.NET+APIs+to+Unity+games+and+mobile+apps;Shipping+products+under+WowSyler+Software" alt="Typing SVG">
+</a>
 
-## 🚀 Hakkımda
-
-Yazılım geliştirme tutkusuyla dolu bir geliştiriciyim. Teknolojiye olan ilgim ve sürekli öğrenme arzum beni her gün daha iyiye götürüyor.
-
-- 💻 Yazılım geliştirme ve modern teknolojilerle ilgileniyorum
-- 🌱 Sürekli yeni teknolojiler ve araçlar öğreniyorum
-- 🎯 Kaliteli kod yazmaya ve en iyi pratikleri uygulamaya özen gösteriyorum
-- 🤝 Açık kaynak projelere katkıda bulunmayı seviyorum
-
-## 🛠️ Teknolojiler & Araçlar
-
-### Programlama Dilleri
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Web Geliştirme
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Veritabanları
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### DevOps & Araçlar
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-
-  ![WowSyler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WowSyler&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowSyler&layout=compact&theme=radical&hide_border=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WowSyler&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=WowSyler&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-## 💼 Üzerinde Çalıştığım Projeler
-
-- 🔭 Açık kaynak projelere aktif katkı sağlıyorum
-- 🌐 Web uygulamaları ve API geliştirme
-- 🤖 Otomasyon ve araç geliştirme
-- 📱 Modern ve kullanıcı dostu arayüzler tasarlama
-
-## 📫 Benimle İletişime Geçin
-
-<div align="center">
-
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WowSyler)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wowsyler)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wowsyler@example.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wowsyler)
-
-</div>
-
-## 💡 İlgi Alanlarım
-
-- 🚀 Yeni teknolojileri keşfetmek ve uygulamak
-- 📚 Sürekli öğrenme ve kendimi geliştirme
-- 🎮 Problem çözme ve algoritma tasarımı
-- 🌐 Web teknolojileri ve modern framework'ler
-- 🤝 Takım çalışması ve işbirliği
-
-## 📈 Aktivite Grafiği
-
-<div align="center">
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WowSyler&theme=react-dark&hide_border=true&area=true)
+<p>
+  <a href="https://www.linkedin.com/in/wowsyler/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wowsyler.com"><img src="https://img.shields.io/badge/wowsyler.com-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://medium.com/@WowSyler"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://x.com/wowsyler"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 </div>
 
 ---
 
+### `> whoami`
+
+```csharp
+public sealed record Developer : IPolyglot, IShipper
+{
+    public string Name     => "Ozan Küçük";
+    public string Role     => "Senior Software Developer @ Boyner";
+    public string Studio   => "WowSyler Software & Technology";
+    public string Location => "Istanbul, Türkiye";
+
+    public string   MotherTongue => "C# / .NET";
+    public string[] Fluent       => ["TypeScript", "JavaScript", "Python", "Go"];
+    public string[] Frontends    => ["Next.js", "React", "Angular", "Blazor"];
+    public string[] Elsewhere    => ["Unity", "React Native", "Swift"];
+
+    public IEnumerable<string> Believes()
+    {
+        yield return "Boring architecture, exciting products.";
+        yield return "Measure first. Optimize second. Refactor always.";
+        yield return "A system you can't observe is a system you don't own.";
+    }
+}
+```
+
+I've spent my career on the backend of things that can't go down: retail at scale, low-code
+platforms, integration engines. .NET is home, but I go wherever the problem is, whether that's a Go
+service, a Next.js frontend, a Python bot or a Unity scene. After hours I build my own products
+under **WowSyler Software & Technology**.
+
+---
+
+### `> git log --career --oneline`
+
+```diff
++ HEAD → Boyner ............................ Senior Software Developer
+         Retail & e-commerce at scale, built on .NET
+  ↑      PATH: Product & Software House
+  ↑      Jitterbit ........................... integration & low-code (post-acquisition of PrimeApps)
+  ↑      PrimeApps ........................... Software Engineer · low-code app platform (2020–2021)
+  ↑      MutabikOl.com ....................... Software Developer (2019)
+  ↑      Accor ............................... Software Developer (2018)
+@ init   İstanbul Aydın University ........... Bachelor's degree (2015–2019)
+```
+
+---
+
+### `> dotnet list package --stack`
+
+<table>
+  <tr>
+    <td align="right" width="150"><b>Core</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider&perline=10" alt="C#, .NET, Visual Studio, Rider"> <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" valign="middle"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,go,swift,kotlin&perline=10" alt="TypeScript, JavaScript, Python, Go, Swift, Kotlin"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,nodejs&perline=10" alt="Next.js, React, Angular, Tailwind, Node.js"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mobile &amp; Games</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,unity,xcode,androidstudio&perline=10" alt="React Native, Unity, Xcode, Android Studio"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,rabbitmq&perline=10" alt="PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" valign="middle"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Ops &amp; Observability</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,grafana,prometheus&perline=10" alt="Docker, Kubernetes, GitHub Actions, Nginx, Linux, Grafana, Prometheus"></td>
+  </tr>
+</table>
+
+---
+
+### `> ls ~/wowsyler/products`
+
+| Product | What it is | Stack | Status |
+|---|---|---|---|
+| [**TextManipulator**](https://textmanipulator.com) | Text-processing workbench with chainable workflows | Go · TypeScript | 🟢 Live |
+| [**AirdropBotPro**](https://airdropbotpro.com) | Multi-wallet, proxy-aware airdrop automation for EVM chains | .NET | 🟡 Building |
+| [**Streea**](https://streea.com) | Discovery hub for movies, series, games, books & music | .NET | 🟡 Building |
+| **Dolap** | Multilingual smart-wardrobe app for the whole family | TypeScript · Web / iOS / Android | 🟡 Building |
+| **Appointment Platform** | Multi-tenant booking & digital menu for small businesses | .NET | 🟡 Building |
+| **InspectRelease** | Code-aware visual regression review for deployments | TypeScript | 🟡 Building |
+
+Open source to poke around in:
+[`Checkout-Microservice-DDD`](https://github.com/WowSyler/Checkout-Microservice-DDD) (DDD + hand-rolled CQRS in C#) ·
+[`general-design-systems`](https://github.com/WowSyler/general-design-systems) (TypeScript design-system toolkit)
+
+---
+
+### `> dotnet-counters monitor --process github`
+
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WowSyler&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=512BD4" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=WowSyler&hide_border=true&background=0d1117&ring=512BD4&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=7d8590&stroke=30363d" alt="GitHub streak">
+</div>
 
-  **"Kod yazmak, düşünceleri gerçeğe dönüştürmenin en güzel yoludur."**
+---
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Yazılım+Geliştirici;Problem+Çözücü;Sürekli+Öğrenen;Açık+Kaynak+Katkıcısı)
-
-  ⭐️ [WowSyler](https://github.com/WowSyler) tarafından oluşturuldu
-
+<div align="center">
+  <sub><code>// TODO: build something people actually use. Repeat.</code></sub>
 </div>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Ozan Küçük — Senior .NET Developer">
+  <title>Ozan Küçük — Senior .NET Developer</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#512BD4"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "JetBrains Mono","Cascadia Code","SF Mono",Consolas,"Liberation Mono",monospace; font-size: 15px; fill: #e6edf3; }
+    .muted { fill: #7d8590; } .ok { fill: #3fb950; } .p { fill: #58a6ff; font-weight: 700; }
+    .acc { fill: #a78bfa; font-weight: 700; } .s { fill: #a5d6ff; } .kw { fill: #ff7b72; }
+    .big { font-size: 30px; font-weight: 800; fill: url(#g); }
+    .l { opacity: 0; animation: in .01s forwards; }
+    .l1 { animation-delay: .3s } .l2 { animation-delay: 1.3s } .l3 { animation-delay: 1.9s }
+    .l4 { animation-delay: 2.4s } .l5 { animation-delay: 2.8s } .l6 { animation-delay: 3.2s }
+    .l7 { animation-delay: 3.8s }
+    .type { clip-path: inset(0 100% 0 0); animation: type .9s steps(34) .35s forwards; }
+    .cur { animation: blink 1s step-end infinite; }
+    @keyframes in { to { opacity: 1 } }
+    @keyframes type { to { clip-path: inset(0 0 0 0) } }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+  <rect x="1" y="1" width="898" height="298" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v23H1z" fill="#161b22"/>
+  <line x1="1" y1="36" x2="899" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18.5" r="6" fill="#ff5f57"/><circle cx="42" cy="18.5" r="6" fill="#febc2e"/><circle cx="62" cy="18.5" r="6" fill="#28c840"/>
+  <text x="450" y="23" text-anchor="middle" class="muted" style="font-size:13px">ozan@wowsyler: ~/src</text>
+
+  <g class="l l1"><text x="28" y="72"><tspan class="p">~/src</tspan><tspan class="muted"> ❯ </tspan></text>
+    <text x="100" y="72" class="type">dotnet run --project OzanKucuk.Api</text></g>
+  <text x="28" y="100" class="l l2 muted">  Building... <tspan class="ok">Build succeeded.</tspan> 0 Warning(s) 0 Error(s)</text>
+
+  <text x="28" y="146" class="l l3 big">Ozan Küçük</text>
+  <text x="28" y="180" class="l l4"><tspan class="ok">✓</tspan> Senior Software Developer <tspan class="muted">@</tspan> <tspan class="acc">Boyner</tspan></text>
+  <text x="28" y="206" class="l l5"><tspan class="ok">✓</tspan> <tspan class="kw">.NET / C#</tspan> at the core <tspan class="muted">·</tspan> polyglot by necessity</text>
+  <text x="28" y="232" class="l l6"><tspan class="ok">✓</tspan> Founder of <tspan class="acc">WowSyler Software &amp; Technology</tspan> <tspan class="muted">· Istanbul, TR</tspan></text>
+
+  <g class="l l7"><text x="28" y="272"><tspan class="muted">info:</tspan> Now listening on: <tspan class="s">https://github.com/WowSyler</tspan></text>
+    <rect class="cur" x="494" y="259" width="9" height="17" fill="#a78bfa"/></g>
+</svg>
